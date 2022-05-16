@@ -1,4 +1,4 @@
-![Gordon Turibamwe Profile Pic](https://zoficash-assets.nyc3.digitaloceanspaces.com/production-final/zoficash_team_profile_photo/1137d8778921128c61ee19b65ddbe559b4db9d6c)
+![Gordon Turibamwe Profile Pic](https://zoficash-assets.nyc3.digitaloceanspaces.com/production-final/zoficash_team_profile_photo/1137d8778921128c61ee19b65ddbe559b4db9d6c "Gordon Turibamwe")
 # I am Gordon Turibamwe.
 #### Full Stack Engineer with 6+ years of hands-on experience designing, developing, and implementing mobile, desktop and web applications and solutions using a range of technologies and programming languages. Well versed in Ui/Ux design & development, databases, mobile, desktop and web development.
 ---
