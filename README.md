@@ -1,5 +1,5 @@
-![Gordon Turibamwe Profile Pic](https://zoficash-assets.nyc3.digitaloceanspaces.com/production-final/zoficash_team_profile_photo/1137d8778921128c61ee19b65ddbe559b4db9d6c "Gordon Turibamwe")
-[<img src="https://zoficash-assets.nyc3.digitaloceanspaces.com/production-final/zoficash_team_profile_photo/1137d8778921128c61ee19b65ddbe559b4db9d6c" width="200">]
+![Gordon Turibamwe Profile Pic](https://media-exp1.licdn.com/dms/image/C4D03AQHKUviehd04tg/profile-displayphoto-shrink_800_800/0/1652702583837?e=1658361600&v=beta&t=l9W4_it6lfvP2rsHopce7_YZkJNuIipkPNqEo00UKCc "Gordon Turibamwe")
+[<img src="https://media-exp1.licdn.com/dms/image/C4D03AQHKUviehd04tg/profile-displayphoto-shrink_800_800/0/1652702583837?e=1658361600&v=beta&t=l9W4_it6lfvP2rsHopce7_YZkJNuIipkPNqEo00UKCc" width="200">]
 # I am Gordon Turibamwe.
 #### Full Stack Engineer with 6+ years of hands-on experience designing, developing, and implementing mobile, desktop and web applications and solutions using a range of technologies and programming languages. Well versed in Ui/Ux design & development, databases, mobile, desktop and web development.
 ---
