@@ -1,5 +1,5 @@
 ---
-# I am Gordon Turibamwe.
+# Design · Software · Data
 ---
 - 🔭 I am Gordon Turibamwe. Past [@zoficash](https://github.com/zoficash) and [@profileZone](https://github.com/profileZone)
 - 🌱 Learning to bootstrap a startup while building in stealth mode.
