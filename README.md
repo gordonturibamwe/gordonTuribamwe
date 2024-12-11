@@ -2,8 +2,8 @@
 # Design · Software · Data
 
 - 🔭 Past [@zoficash](https://github.com/zoficash) · Now with [@profileZone](https://github.com/profileZone)
-- 🌱 Learning to bootstrap a startup while building in stealth mode.
-- 👯 Collaborating on SaaS projects specifically software for business solutions
+- 🌱 Bootstraping startups while building in stealth.
+- 👯 Collaborating on SaaS projects specifically software for businesses.
 - 📫 Twitter: [@gordonturibamwe](https://twitter.com/gordonturibamwe)
 
 ![](https://hit.yhype.me/github/profile?user_id=10664143)
