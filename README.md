@@ -1,7 +1,7 @@
 
 # Design · Software · Data
 
-- 🔭 I am Gordon Turibamwe. Past [@zoficash](https://github.com/zoficash) · Now with [@profileZone](https://github.com/profileZone)
+- 🔭 Past [@zoficash](https://github.com/zoficash) · Now with [@profileZone](https://github.com/profileZone)
 - 🌱 Learning to bootstrap a startup while building in stealth mode.
 - 👯 Collaborating on SaaS projects specifically software for business solutions
 - 📫 Twitter: [@gordonturibamwe](https://twitter.com/gordonturibamwe)
